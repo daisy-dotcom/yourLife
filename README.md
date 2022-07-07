@@ -1,13 +1,14 @@
 # How to Run This React App
-##Ensure you have Node.js and NPM installed
+## Ensure you have Node.js and NPM installed
 
-Download this repository
+1. Download this repository.
 
-cd to this repositiory on your local device
+2. cd to this repositiory on your local device.
 
-Run npm install to download the dependencies in the package.json
+3. Run npm install to download the dependencies in the package.json.
 
-Run npm start
+4. Run npm start
+
 
 
 
