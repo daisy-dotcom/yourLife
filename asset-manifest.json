@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yourLife/static/css/main.9011eb86.css",
+    "main.js": "/yourLife/static/js/main.14dc5833.js",
+    "static/js/787.d3befce1.chunk.js": "/yourLife/static/js/787.d3befce1.chunk.js",
+    "index.html": "/yourLife/index.html",
+    "main.9011eb86.css.map": "/yourLife/static/css/main.9011eb86.css.map",
+    "main.14dc5833.js.map": "/yourLife/static/js/main.14dc5833.js.map",
+    "787.d3befce1.chunk.js.map": "/yourLife/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9011eb86.css",
+    "static/js/main.14dc5833.js"
+  ]
+}
